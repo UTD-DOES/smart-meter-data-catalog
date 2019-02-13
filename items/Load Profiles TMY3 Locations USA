@@ -1,0 +1,4 @@
+Commercial and Residential Hourly Load Profiles for all TMY3 Locations in the United States:
+  description: "This dataset contains hourly load profile data for 16 commercial building types (based off the DOE commercial reference building models) and residential buildings (based off the Building America House Simulation Protocols). This dataset also uses the Residential Energy Consumption Survey (RECS) for statistical references of building types by location. Hourly load profiles are available for over all TMY3 locations in the United States here. Browse files in this dataset, accessible as individual files and as commercial and residential downloadable ZIP files. This dataset is approximately 4.8GiB compressed or 19GiB uncompressed."
+  link: https://openei.org/datasets/dataset/commercial-and-residential-hourly-load-profiles-for-all-tmy3-locations-in-the-united-states
+  type: dataset

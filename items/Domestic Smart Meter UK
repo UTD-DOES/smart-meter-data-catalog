@@ -1,0 +1,4 @@
+Dataset (TC1a): Basic Profiling of Domestic Smart Meter Customers UK:
+  description: "This dataset forms part of a comprehensive suite of results, derived from the CLNR project’s trials with more than 12,000 UK electricity customers. The August 2014 datasets cover both load and generation profiles, as well as the potential for customer flexibility. The dataset is presented in an open and usable format."
+  link: http://www.networkrevolution.co.uk/project-library/dataset-tc1a-basic-profiling-domestic-smart-meter-customers/
+  type: dataset

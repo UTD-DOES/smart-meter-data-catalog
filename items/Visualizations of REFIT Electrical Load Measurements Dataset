@@ -1,0 +1,9 @@
+Visualizations of REFIT Electrical Load Measurements Dataset:
+  description: "Python + Jupyter Notebook code exploring the REFIT Electrical Load Measurements Dataset"
+  link: https://github.com/RSLi/REFIT-Visualizations/blob/master/REFIT.ipynb
+  type: code
+  datasetsUsed:
+    - REFIT Electrical Load Measurements dataset
+  author: "Siwei Li"
+  contributorGithubHandle: RSLi
+  contributorLinkedinHandle: robertsiweili

@@ -1,0 +1,4 @@
+RAE: The Rainforest Automation Energy Dataset:
+  description: "The Rainforest Automation Energy (RAE) dataset to help smart grid researchers test their algorithms which make use of smart meter data. This initial release of RAE contains 1Hz data (mains and sub-meters) from two a residential house. In addition to power data, environmental and sensor data from the house's thermostat is included. Sub-meter data from one of the houses includes heat pump and rental suite captures which is of interest to power utilities. (2017-05-01)"
+  link: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZJW4LC
+  type: dataset

@@ -1,0 +1,71 @@
+---
+
+# --------EXAMPLE----------
+# Example Title: # Title needs to be unique
+#   # Mandatory Attributes
+#   link: http://www.example.org # A link to the relevant website/URL
+#   description: "This is an example description, please do not nest 'double quotes'"
+#   # Optional Attributes
+#   related_links:
+#     tutorial: http://www.example.org/tutorial
+#     sample_usage: http://www.example.org/sample
+
+# Example2: 
+#   link: http://www.example.org/blahblah
+#   description: 'Other YAML compatible string format is accepted also'
+# -------------------------
+
+Almanac of Minutely Power Dataset (AMPds):
+  link: http://ampds.org
+  description: "The AMPds dataset has been release to help load disaggregation/NILM and eco-feedback researchers test their algorithms, models, systems, and prototypes. AMPds contains electricity, water, and natural gas measurements at one minute intervals — a total of 1,051,200 readings per meter for 2 years of monitoring. Weather data from Environment Canada\'s YVR weather station has also been added. This hourly weather data covers the same period of time as AMPds and includes a summary of climate normals observed from the years between 1981-2010. Utility billing data is also included for cost analyses."
+
+Controlled On/Off Loads Library dataset (COOLL):
+  link: https://coolldataset.github.io
+  description: "The Controlled On/Off Loads Library (COOLL) is a dataset of high-sampled electrical current and voltage measurements representing individual appliances consumption. The measurements were taken in June 2016 in the PRISME laboratory of the University of Orléans, France. The appliances are mainly controllable appliances (i.e. we can precisely control their turn-on/off time instants). 42 appliances of 12 types were measured at a 100 kHz sampling frequency"
+
+Dutch Residential Energy Dataset (DRED):
+  link: http://www.st.ewi.tudelft.nl/~akshay/dred/
+  description: "This website provides details on the deployment of sensors that monitor energy consumption of a household in the Netherlands. This website currently hosts data from a single household. We are currently extending our deployment to more households.  DRED (Dutch Residential Energy Dataset) is the first open-access, publicly available dataset from The Netherlands. Our deployment consists of several sensors measuring electricity, occupancy and ambient parameters in a household. The data was collected over a period of 6 months from 5th July to 5th December 2015. The DRED dataset includes: Electricity monitoring - aggregated energy consumption and appliance level energy consumption; Ambient information - room-level indoor temperature, outdoor temperature, environmental parameters (wind speed, humidity, precipitation);  Occupancy information- room-level location information of occupants, WiFi and BT RSSI information for localization;  Household information - house layout, number of appliance monitored, appliance-location mapping, etc"
+
+Electricity Consumption & Occupancy data set (ECO):
+  link: https://www.vs.inf.ethz.ch/res/show.html?what=eco-data
+  description: "This website provides access to the ECO data set (Electricity Consumption and Occupancy). The ECO data set is a comprehensive data set for non-intrusive load monitoring and occupancy detection research. It was collected in 6 Swiss households over a period of 8 months. For each of the households, the ECO data set provides: 1 Hz aggregate consumption data. Each measurement contains data on current, voltage, and phase shift for each of the three phases in the household; 1 Hz plug-level data measured from selected appliances. Occupancy information measured through a tablet computer (manual labeling) and a passive infrared sensor (in some of the households). We make the ECO data set available to the research community. You may directly access the data set, but we always like to receive a short description on what you plan to do with the data via e-mail to Wilhelm Kleiminger."
+
+GREEND Dataset:
+  link: https://sourceforge.net/projects/greend/
+  description: "GREEND is an energy dataset containing power measurements collected from multiple households in Austria and Italy. It provides detailed energy profiles on a per device basis with a sampling rate of 1 Hz. We expect to regularly provide snapshots of the dataset as more data is recorded and measurement platforms deployed. The GREEND dataset is free to use in research and commercial applications. If you want to access the data, please fill out the brief form at http://goo.gl/rtXjxT which will eventually provide you with the credentials to open the dataset archive."
+
+Reference Energy Disaggregation Dataset (REDD):
+  link: http://redd.csail.mit.edu
+  description: "This is the home page for the REDD data set. Below you can download an initial version of the data set, containing several weeks of power data for 6 different homes, and high-frequency current/voltage data for the main power supply of two of these homes."
+
+Indian Dataset for Ambient Water and Energy (iAWE):
+  link: http://iawe.github.io
+  description: "In the summer of 2013, we decided to instrument a home in New Delhi India with an aim to characterize the unique aspects of energy monitoring consumption in India. In total we collected about 73 days of data."
+
+Pecan Street Research Institute:
+  link: http://www.pecanstreet.org
+  description: "Pecan Street has developed a residential electric use disaggregation algorithm training kit, previously available only to members of its university consortium and clients of its algorithm evaluation service that is now publicly available. This unique kit includes a 15-minute whole home dataset and 1-minute interval circuit-level dataset for packages of 10 to 100 homes in Austin"
+
+REFIT Electrical Load Measurements dataset:
+  link: https://pure.strath.ac.uk/portal/en/datasets/refit-electrical-load-measurements(31da3ece-f902-4e95-a093-e0a9536983c4).html
+  description: "The REFIT Electrical Load Measurements dataset includes raw electrical consumption data in Watts for 20 households at aggregate and appliance level, timestamped and sampled at 8 second intervals. This dataset is intended to be used for research into energy conservation and advanced energy services, ranging from non-intrusive appliance load monitoring, demand response measures, tailored energy and retrofit advice, appliance usage analysis, consumption and time-use statistics and smart home/building automation."
+
+Smart* Home Data Set:
+  link: http://traces.cs.umass.edu/index.php/Smart/Smart
+  description: "The goal of the Smart* project is to optimize home energy consumption. Available here is a wide variety of data collected from three real homes, including electrical (usage and generation), environmental (e.g., temperature and humidity), and operational (e.g., wall switch events). Also available is minute-level electricity usage data from 400+ anonymous homes. Please see the Smart* home page for general information about the project, or the Smart* Tools download page for software that was used in the collection of this data."
+
+Tracebase:
+  link: https://www.tracebase.org
+  description: "The Controlled On/Off Loads Library (COOLL) is a dataset of high-sampled electrical current and voltage measurements representing individual appliances consumption. The measurements were taken in June 2016 in the PRISME laboratory of the University of Orléans, France. The appliances are mainly controllable appliances (i.e. we can precisely control their turn-on/off time instants). 42 appliances of 12 types were measured at a 100 kHz sampling frequency"
+
+UK Domestic Appliance-Level Electricity (UK-DALE) dataset:
+  link: http://www.doc.ic.ac.uk/~dk3810/data/
+  description: "April 2017 release: This dataset records the power demand from five houses. In each house we record both the whole-house mains power demand every six seconds as well as power demand from individual appliances every six seconds. In three of the five houses (houses 1, 2 and 5) we also record the whole-house voltage and current at 16 kHz. Each release of the dataset is labelled with the month and year. The most recent (and probably final) release is for April 2017. UK-DALE now includes 4.3 years of data for house 1."
+
+Sample Dataset:
+  description: "Sample Description"
+  link: http://example.org
+  author: Tester
+  contributorGithubHandle: RSLi
+  contributorLinkedinHandle: robertsiweili

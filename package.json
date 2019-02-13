@@ -1,0 +1,25 @@
+{
+  "name": "smart-meter-data-catalog-prototype",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node bin/compile.js > catalog.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RSLi/smart-meter-data-catalog.git"
+  },
+  "author": "rs-li",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RSLi/smart-meter-data-catalog/issues"
+  },
+  "homepage": "https://github.com/RSLi/smart-meter-data-catalog#readme",
+  "devDependencies": {
+    "@rs-li/yaml2dict": "0.0.2"
+  },
+  "dependencies": {
+    "yamljs": "^0.3.0"
+  }
+}

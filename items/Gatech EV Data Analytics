@@ -1,0 +1,17 @@
+Georgia Tech Campus EV Charging Station Dataset:
+  description: "Georgia Tech Electric Vehicles Charging Station Datasets"
+  link: https://github.com/Sheldon-Zhang/Gatech_EV_Analytics
+  type: dataset
+  author: "Xiaochen Zhang"
+  contributorGithubHandle: Sheldon-Zhang
+  contributorLinkedinHandle: zhangxiaochen
+  
+Georgia Tech Campus EV Charging Behavior Study:
+  description: "Study on Georgia Tech Electric Vehicle Charging Stations.\nMatlab code and visualization included."
+  link: https://github.com/Sheldon-Zhang/Gatech_EV_Analytics
+  type: code
+  externalDatasetsUsed:
+    - "Georgia Tech Campus EV Charging Station Dataset"
+  author: "Xiaochen Zhang"
+  contributorGithubHandle: Sheldon-Zhang
+  contributorLinkedinHandle: zhangxiaochen

@@ -1,0 +1,4 @@
+Toronto Hydro Net System Load Shape:
+  description: "NET SYSTEM LOAD SHAPE INFORMATION from Toronto Hydro's website"
+  link: https://www.torontohydro.com/SITES/ELECTRICSYSTEM/BUSINESS/YOURBILLOVERVIEW/NETSYSTEMLOADSHAPE/Pages/default.aspx
+  type: dataset
